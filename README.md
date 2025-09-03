@@ -44,4 +44,5 @@ Repositório de exemplos e exercícios de programação web com foco no lado do 
 ### Passos de instalação
 1. Clone o repositório:
 ```bash
-git clone https://github.com/Allgommes/Programacao-WEB-servidor.git
+git clone https://github.com/Allgommes/CodePHP.git
+
